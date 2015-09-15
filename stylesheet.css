@@ -1,4 +1,4 @@
-a {
+.nav-item {
   font-family: Helvetica;
   color: #696969;
   font-size: 18px;
@@ -6,6 +6,7 @@ a {
   padding: 0px 10px 0px 0px;
   text-transform: lowercase;
   text-decoration: none;
+  display: inline;
 }
 
 h1 {
@@ -49,8 +50,8 @@ h5 {
 }
 
 .letters-graphics {
-  position: relative;
-  display: inline-block;
   height: 300px;
   width: 500px;
-}
+  position: relative;
+  display: inline;
+  }
