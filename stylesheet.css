@@ -1,0 +1,56 @@
+a {
+  font-family: Helvetica;
+  color: #696969;
+  font-size: 18px;
+  font-weight: normal;
+  padding: 0px 10px 0px 0px;
+  text-transform: lowercase;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: Helvetica;
+  color: #696969;
+  font-size: 48px;
+  font-weight: normal;
+  padding: 14px 10px; 
+  text-transform: lowercase;
+  text-decoration: none;
+}
+
+p {
+  font-family: Helvetica;
+  color: #696969;
+  font-size: 14px;
+  font-weight: normal;
+  padding: 0px 0px;
+  text-transform: lowercase;
+  text-decoration: none;
+}
+
+h2 {
+	font-family: Helvetica;
+	color: #696969;
+	font-size: 24px;
+	font-weight: normal;
+	padding: 0px 0px; 
+	text-transform: lowercase;
+	text-decoration: none;
+}
+
+h5 {
+  font-family: Helvetica;
+	color: #696969;
+  font-size: 11px;
+	font-weight: normal;
+	padding: 0px 0px; 
+	text-transform: lowercase;
+	text-decoration: none;
+}
+
+.letters-graphics {
+  position: relative;
+  display: inline-block;
+  height: 300px;
+  width: 500px;
+}
